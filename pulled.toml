@@ -1,0 +1,5 @@
+[setup]
+files = [
+    ["./include/extensions.h", "./include/"],
+    ["./include/qemu_io.h", "./include/"],
+]
